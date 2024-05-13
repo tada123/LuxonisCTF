@@ -1,0 +1,7 @@
+user1|password123
+player321|321play
+oakcamera|luxonis2
+guesser|weakpassword
+guest123|weaker
+u|p
+p|l
