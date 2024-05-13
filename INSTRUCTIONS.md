@@ -1,4 +1,4 @@
-# Implementation of `Guess a word` in C++ (by Tadeáš Souček)
+# Implementation of `Guess a word` in C++
 ## Running the test
 - Use provided binaries, or compile by simply running `build.sh` script provided (`g++` must be installed on target machine)
 - Read user credentials from `registeredUsers.txt` and use them to test the app (or add a custom account). This is only a test case, but of course, passwords should be properly hashed in real world applications.
